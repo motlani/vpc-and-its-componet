@@ -1,1 +1,1 @@
-# vpc-and-its-componet
+# vpc-componet
